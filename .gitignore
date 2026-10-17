@@ -1,0 +1,18 @@
+# Build / env
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+dist/
+build/
+
+# Secrets
+*.key
+*.pem
+secrets.json
+credentials.json
+
+# OS
+.DS_Store
